@@ -1,0 +1,29 @@
+html {
+    background-color:antiquewhite;
+}
+
+#title {
+    text-align: center;
+}
+
+.main-content h2 {
+    text-align: center;
+}
+
+.project-container {
+    display: flex;
+    justify-content: center;
+}
+
+.project {
+    padding: 1em;
+}
+
+.project h3 {
+    text-align: center;
+}
+
+.project img {
+    display: block;
+    margin: auto;
+}
